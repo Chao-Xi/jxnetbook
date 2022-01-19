@@ -10,7 +10,9 @@ plugins:
 
 nav:
   - 'Welcome': "index.md"
-
+  - '全解网络协议':
+    - '第一节 TCP协议': 'chap1/1tcp.md'
+  
 repo_url: https://github.com/Chao-Xi/jxnetbook.git
 repo_name: "jxnetbook"
 
